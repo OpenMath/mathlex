@@ -25,7 +25,7 @@ example_0 = {
         },
     'alignments': {
         'wikidata': 'https://www.wikidata.org/wiki/Q50708',
-        'stex': 'https://mathhub.info/?a=smglom%2Farithmetics&rp=mod%2Fdivisor.en.tex',
+        'stex': 'https://mathhub.info?a=smglom/arithmetics&p=mod&m=divisor&s=divisor',
         'lean': 'https://leanprover-community.github.io/mathlib4_docs/Mathlib/GroupTheory/Divisible.html#DivisibleBy'
         }
     }
